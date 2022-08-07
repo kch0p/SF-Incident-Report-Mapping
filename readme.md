@@ -1,7 +1,6 @@
 
 # San Francisco Crime: Descriptive Statistics and Geographic Visualization
 
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 This was one of the main problem sets for the Legal Studies 123 Course at UC Berkeley. We used publicly available crimes/geolocation data from the city of San Francisco to conduct an exploratory 
 data analysis (EDA) using Python3 and [Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html#user-guide), as well as create static and time-based crime maps using [Plotly](https://plotly.com/python/), [GeoPandas](https://geopandas.org/en/stable/docs/reference/api/geopandas.GeoDataFrame.html#geopandas.GeoDataFrame), and [GeoJSON](https://geojson.org/). Data was sourced 
@@ -21,19 +20,17 @@ and then grouped by *hour of the day* and *day of the week* to see if there were
 
 ![App Screenshot](https://github.com/kch0p/Legal-Studies-123-Problem-Set-1/blob/main/readme_files/images/hour_of_day_chart.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 
 
 *Check to see if crime rates over time change when looking at particular types of crime. Plot and explain your findings.*
 Most notably, almost all crimes saw significant declines at the beginning of the COVID-19 Pandemic in February of 2020. What was interisting however
 was how some crimes bounced back, while others have stayed much lower since. 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Drug Offense IRs Over Time](https://github.com/kch0p/Legal-Studies-123-Problem-Set-1/blob/main/readme_files/images/drug_offenses_over_time.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Larceny Theft IRs Over Time](https://github.com/kch0p/Legal-Studies-123-Problem-Set-1/blob/main/readme_files/images/larceny_theft_over_time.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Traffic Violation IRs Over Time](https://github.com/kch0p/Legal-Studies-123-Problem-Set-1/blob/main/readme_files/images/traffic_violations_over_time.png)
 
 
 *What neighborhoods experience the most crime? Do different neighborhoods experience different types of crimes at different rates, or is the distribution of crime spatially consistent across neighborhoods?*
@@ -44,11 +41,17 @@ I was also able to find that different neighborhoods experienced certain crimes 
 explicitly required, I created a secondary table to further visualize what neighborhoods
 experienced high crime rates in what categories. 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Crime Proportions by Neighborhood](https://github.com/kch0p/Legal-Studies-123-Problem-Set-1/blob/main/readme_files/images/crime_by_neighborhood.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Crime Proportions Variance Table](https://github.com/kch0p/Legal-Studies-123-Problem-Set-1/blob/main/readme_files/images/crime_proportions_by_neighborhood.png)
 
 
 ### Example Maps 
 
+![Simple IRs 2019 Pins](https://github.com/kch0p/Legal-Studies-123-Problem-Set-1/blob/main/readme_files/images/simple_crimes_map.png)
 
+![Simple Choropleth Map](https://github.com/kch0p/Legal-Studies-123-Problem-Set-1/blob/main/readme_files/images/sf_ir_choropleth(1).png)
+
+![IRs Every Day in 2019 Heatmap](https://github.com/kch0p/Legal-Studies-123-Problem-Set-1/blob/main/readme_files/images/example%20day-day%20ir%20heatmap%202019.gif)
+
+![IR Concentration by Day of Week 2019](https://github.com/kch0p/Legal-Studies-123-Problem-Set-1/blob/main/readme_files/images/day_of_week_ir_heatmap.gif)
