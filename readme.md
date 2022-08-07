@@ -2,12 +2,9 @@
 # San Francisco Crime: Descriptive Statistics and Geographic Visualization
 
 
-This was one of the main problem sets for the Legal Studies 123 Course at UC Berkeley. We used publicly available crimes/geolocation data from the city of San Francisco to conduct an exploratory 
+An analysis of publicly available crimes/geolocation data from the city of San Francisco to conduct an exploratory 
 data analysis (EDA) using Python3 and [Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html#user-guide), as well as create static and time-based crime maps using [Plotly](https://plotly.com/python/), [GeoPandas](https://geopandas.org/en/stable/docs/reference/api/geopandas.GeoDataFrame.html#geopandas.GeoDataFrame), and [GeoJSON](https://geojson.org/). Data was sourced 
 from the years 2018-2021, as well as pre-made neighborhood boundary map files.
-
-Project code (and more detailed discussion) available upon request. This is mostly to respect the course's 
-academic integrity and future students working with the data.
 
 
 ### Example EDA & Descriptive Statistics: 
@@ -57,3 +54,9 @@ experienced high crime rates in what categories.
 ![IR Concentration by Day of Week 2019](https://github.com/kch0p/Legal-Studies-123-Problem-Set-1/blob/main/readme_files/images/day_of_week_ir_heatmap.gif)
 
 (Above are animated heatmaps of Day-by-Day heatmaps throughout all of 2019, and averaged by day of the week from 2019-2022.)
+
+
+
+
+
+Project code (and more detailed discussion) available upon request. This is mostly to respect the academic integrity of the course this class came from. 
