@@ -19,7 +19,7 @@ activity as there was in time of day activity. To answer this,
 I properly formatted the existing [datetime](https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html) data, 
 and then grouped by *hour of the day* and *day of the week* to see if there were any major differences. 
 
-![App Screenshot](https://github.com/kch0p/Legal-Studies-123-Problem-Set-1/blob/main/readme_files/images/hour_of_day_chart.png
+![App Screenshot](https://github.com/kch0p/Legal-Studies-123-Problem-Set-1/blob/main/readme_files/images/hour_of_day_chart.png)
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
