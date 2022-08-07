@@ -27,11 +27,13 @@ Most notably, almost all crimes saw significant declines at the beginning of the
 was how some crimes bounced back, while others have stayed much lower since. 
 
 ![Drug Offense IRs Over Time](https://github.com/kch0p/Legal-Studies-123-Problem-Set-1/blob/main/readme_files/images/drug_offenses_over_time.png)
+Drug Offense IRs Over Time
 
 ![Larceny Theft IRs Over Time](https://github.com/kch0p/Legal-Studies-123-Problem-Set-1/blob/main/readme_files/images/larceny_theft_over_time.png)
+Larceny Theft IRs Over Time
 
 ![Traffic Violation IRs Over Time](https://github.com/kch0p/Legal-Studies-123-Problem-Set-1/blob/main/readme_files/images/traffic_violations_over_time.png)
-
+Traffic Violation IRs Over Time
 
 *What neighborhoods experience the most crime? Do different neighborhoods experience different types of crimes at different rates, or is the distribution of crime spatially consistent across neighborhoods?*
 
