@@ -55,3 +55,5 @@ experienced high crime rates in what categories.
 ![IRs Every Day in 2019 Heatmap](https://github.com/kch0p/Legal-Studies-123-Problem-Set-1/blob/main/readme_files/images/example%20day-day%20ir%20heatmap%202019.gif)
 
 ![IR Concentration by Day of Week 2019](https://github.com/kch0p/Legal-Studies-123-Problem-Set-1/blob/main/readme_files/images/day_of_week_ir_heatmap.gif)
+
+(Above are animated heatmaps of Day-by-Day heatmaps throughout all of 2019, and averaged by day of the week from 2019-2022. 
