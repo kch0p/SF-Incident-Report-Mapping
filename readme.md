@@ -59,4 +59,4 @@ experienced high crime rates in what categories.
 
 
 
-Project code (and more detailed discussion) available upon request. This is mostly to respect the academic integrity of the course this class came from. 
+Project code (and more detailed discussion) available upon request. This is mostly to respect the academic integrity of the project this class came from. 
